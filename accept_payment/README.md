@@ -66,6 +66,16 @@ Use Stripe Billing to set up fixed-price subscriptions.
 
 </details>
 
-6. Se abre una pagina de stripe para el pago
-7. Cuando realizamos el pago nos lleva a la pagina de success si ha salido bien o a la de cancel si el pago de ha rechazado
-8. Si hay un error, no redirige a la pagina de cancel. Muestra el error (bastante completo) por consola.
+<details><summary>currency & country codes</summary>
+
+[Currency codes](https://www.iso.org/iso-4217-currency-codes.html)
+[Country codes](https://www.iso.org/obp/ui/#search)
+[Supported currencies](https://stripe.com/docs/currencies)
+Importante: el codigo debe ir en minisculas y el amount debe ir sin decimales 3.9€ = 390
+
+La cantidad minima a cargar en euros es 
+`EUR	€0.50`
+
+1. Se abre una pagina de stripe para el pago
+2. Cuando realizamos el pago nos lleva a la pagina de success si ha salido bien o a la de cancel si el pago de ha rechazado
+3. Si hay un error, no redirige a la pagina de cancel. Muestra el error (bastante completo) por consola.
