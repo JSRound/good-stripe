@@ -1,6 +1,10 @@
 # good-stripe
 Repository to save information and examples of stripe
 
+# Webhooks
+Esto es importante rematarlo y dejarlo procesado
+[Ejemplo](https://dashboard.stripe.com/test/webhooks/create?endpoint_location=local)
+
 # Links
 <details><summary>Click to expand</summary>
 
@@ -34,3 +38,4 @@ De todas formas, tengo que investigar porque hay procesos que se hacen desde la 
 * [accept_payment](./accept_payment/README) 
 Example copied from the [official documentation](https://stripe.com/docs/payments/accept-a-payment?platform=web)
 
+</details>
