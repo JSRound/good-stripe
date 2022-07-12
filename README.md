@@ -1,6 +1,10 @@
 # good-stripe
 Repository to save information and examples of stripe
 
+Si por algun casual las apis, aunque sean las de tests se quedan visibles en los repositorios hay que revocarlas
+[Dashboard API keys](https://dashboard.stripe.com/apikeys)
+[Manage API keys](https://stripe.com/docs/development/dashboard/manage-api-keys)
+
 # Webhooks
 Esto es importante rematarlo y dejarlo procesado
 [Ejemplo](https://dashboard.stripe.com/test/webhooks/create?endpoint_location=local)
