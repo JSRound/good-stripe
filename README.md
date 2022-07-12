@@ -1,7 +1,9 @@
 # good-stripe
 Repository to save information and examples of stripe
 
-# Stripe
+# Links
+<details><summary>Click to expand</summary>
+
 * # [Stripe Development](https://stripe.com/docs/development)
 * ## [Example to create a Webhook](https://dashboard.stripe.com/test/webhooks/create?endpoint_location=local)
 * ## [Strip CLI!!](https://stripe.com/docs/stripe-cli)
@@ -24,4 +26,11 @@ De todas formas, tengo que investigar porque hay procesos que se hacen desde la 
 ## Stripe Flutter SDK
 * [Exploring the Stripe Flutter SDK](https://blog.logrocket.com/exploring-stripe-flutter-sdk/)
 
+</details>
+
+# Examples
+<details><summary>Click to expand</summary>
+
+* [accept_payment](./accept_payment/README) 
+Example copied from the [official documentation](https://stripe.com/docs/payments/accept-a-payment?platform=web)
 
