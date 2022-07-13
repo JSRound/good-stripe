@@ -1,13 +1,13 @@
 # good-stripe
 Repository to save information and examples of stripe
 
-Si por algun casual las apis, aunque sean las de tests se quedan visibles en los repositorios hay que revocarlas
-[Dashboard API keys](https://dashboard.stripe.com/apikeys)
-[Manage API keys](https://stripe.com/docs/development/dashboard/manage-api-keys)
+* ## [Payments](./docs/payments.md)
+* ## [Api Keys](./docs/apikeys.md)
+* ## [Webhooks](./docs/webhooks.md)
+* ## [Stripe API](./docs/api.md)
+* ## [Stripe CLI](./docs/cli.md)
+* ## [Flutter Stripe](./docs/flutter.md)
 
-# Webhooks
-Esto es importante rematarlo y dejarlo procesado
-[Ejemplo](https://dashboard.stripe.com/test/webhooks/create?endpoint_location=local)
 
 # Links
 <details><summary>Click to expand</summary>
